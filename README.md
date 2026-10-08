@@ -40,7 +40,7 @@ These are projects im currently working on! By currently working on, I mean that
 
 <div style="display: flex; gap: 20px;">
   <a href="https://bedrockr.xplate.dev/" target="_blank" ><img src="website-bedrockr.png" alt="website"/></a>
-  <a href="https://bedrockr.xplate.dev/" target="_blank" ><img xFN10x/bedrockR" src="src-code-bedrockr.png" alt="website"/></a>
+  <a href="https://github.com/xFN10x/bedrockR" target="_blank" ><img src="src-code-bedrockr.png" alt="website"/></a>
 </div>
 
 ---
